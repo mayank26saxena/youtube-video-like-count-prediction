@@ -36,11 +36,7 @@ I have developed a command line tool to test out the model.
 
 2) <code>cd PS17_Mayank_Saxena</code>
 
-3) Run the <code>create_db.py</code> to create the database.
-
-4) Run <code>youtube_database.py</code> file to get data from YouTube API and insert it into the database.
-
-5) Run the <code>test_input.py</code> and provide the video ID as system arguement.
+3) Run the <code>test_input.py</code> and provide the video ID as system arguement.
 
 
 ## Limitations
