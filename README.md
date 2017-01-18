@@ -1,5 +1,8 @@
 # Precog Round 2 Task Report
 ## Predicting the Likes Count of a YouTube Video
+
+The final project report can be accessed at - [Report](https://gitlab.com/mayank26saxena/PS17_Mayank_Saxena/blob/master/Mayank_Saxena_Report.pdf)
+
 The task which I chose was Task C. The task required me to model the likes count of a YouTube video as a function of various
 features. Since this task focused on feature engineering I have tried to obtain relevant features for the data set from different
 methods and sources. I have used the YouTube API to gather video details such as -
