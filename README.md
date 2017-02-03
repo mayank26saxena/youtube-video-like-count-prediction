@@ -2,7 +2,7 @@
 
 The final project report can be accessed at - [Report](https://gitlab.com/mayank26saxena/PS17_Mayank_Saxena/blob/master/Mayank_Saxena_Report.pdf)
 
-The task which I chose was Task C. The task required me to model the likes count of a YouTube video as a function of various
+A command line tool to model the likes count of a YouTube video as a function of various
 features. Since this task focused on feature engineering I have tried to obtain relevant features for the data set from different
 methods and sources. I have used the YouTube API to gather video details such as -
 - View Count
@@ -34,12 +34,11 @@ The model which I used was the Stochastic Gradient Descent based Linear Regressi
 ## How to Use
 I have developed a command line tool to test out the model. 
 
-1) <code>git clone https://gitlab.com/mayank26saxena/PS17_Mayank_Saxena.git</code>
+1) <code>git clone https://github.com/mayank26saxena/PS17_Mayank_Saxena.git</code>
 
 2) <code>cd PS17_Mayank_Saxena</code>
 
 3) Run the <code>test_input.py</code> and provide the video ID as system arguement.
-
 
 ## Limitations
 The file <code>get_data.py</code> can be run by providing the video ID as a command line arguement. The output will be the predicted like count , the actual like count and the error.
