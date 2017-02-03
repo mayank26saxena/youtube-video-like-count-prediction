@@ -34,9 +34,9 @@ The model which I used was the Stochastic Gradient Descent based Linear Regressi
 ## How to Use
 I have developed a command line tool to test out the model. 
 
-1) <code>git clone https://github.com/mayank26saxena/PS17_Mayank_Saxena.git</code>
+1) <code>git clone https://github.com/mayank26saxena/YouTube-Video-Like-Count-Predictor.git</code>
 
-2) <code>cd PS17_Mayank_Saxena</code>
+2) <code>cd YouTube-Video-Like-Count-Predictor</code>
 
 3) Run the <code>test_input.py</code> and provide the video ID as system arguement.
 
