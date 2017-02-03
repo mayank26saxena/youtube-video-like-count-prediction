@@ -1,5 +1,4 @@
-# Precog Round 2 Task Report
-## Predicting the Likes Count of a YouTube Video
+#Predicting the Likes Count of a YouTube Video
 
 The final project report can be accessed at - [Report](https://gitlab.com/mayank26saxena/PS17_Mayank_Saxena/blob/master/Mayank_Saxena_Report.pdf)
 
